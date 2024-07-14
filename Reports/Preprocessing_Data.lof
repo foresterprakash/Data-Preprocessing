@@ -1,0 +1,17 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Techniques of data pre-processing}}{1}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Example of Missing Data}}{4}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Missing Data Type}}{6}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Missing data Pattern in visual form}}{10}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Marginal plot between Mileage and labor cost}}{13}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Distribution of observed points and imputed points. The red points indicates the imputed points. Here we can see the distribution of imputed values.But to look at the diffrence in each imputation we need to draw a xyplot against desired variables.}}{17}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Comparision of different imputation against the observed data}}{17}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Feature Scaling}}{24}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces The effect of standardized in the data}}{29}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Global outliers}}{32}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Contextual Outliers}}{33}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Collective Outliers}}{33}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Impact of outliers}}{34}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Label Encoding}}{40}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces One-Hot Encoding}}{42}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Ordinal Encoding}}{43}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Binary Encoding}}{45}{figure.17}%

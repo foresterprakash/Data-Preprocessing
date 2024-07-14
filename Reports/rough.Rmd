@@ -1,0 +1,19 @@
+---
+title: "About Myself"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(knitr)
+```
+
+\usepackage{wrapfig}
+\usepackage{graphicx}
+
+\begin{wrapfigure}{r}{0.3\textwidth}
+\includegraphics[width=0.3\textwidth]{Photo_Prakash.jpg}
+\end{wrapfigure}
+
+
+With a rich educational background spanning from a Bachelor's degree in Forestry to a Master's in Landscape Ecology and Nature Conservation, supplemented by practical experiences in forest management and carbon monitoring, I am driven by a passion for contributing to climate science and environmental conservation efforts.

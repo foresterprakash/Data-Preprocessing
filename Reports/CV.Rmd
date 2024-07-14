@@ -1,0 +1,164 @@
+---
+title: ""
+output:
+  pdf_document:
+    keep_tex: true
+geometry: "left=2cm,right=2cm,top=1cm,bottom=1.5cm"
+header-includes:
+  - \usepackage{wrapfig}
+  - \usepackage{graphicx}
+  - \usepackage{titlesec}  # Package for title formatting
+  - \titlespacing*{\section}{0pt}{\baselineskip}{0.1\baselineskip}  # Adjust spacing after section headings
+  - \titlespacing*{\subsection}{0pt}{\baselineskip}{0.1\baselineskip}  # Adjust spacing after subsection headings
+  - \titlespacing*{\subsubsection}{0pt}{\baselineskip}{0.1\baselineskip}  # Adjust spacing after subsubsection headings
+  - \usepackage{fancyhdr}  # Package for custom headers and footers
+  - \pagestyle{fancy}  # Use fancy page style
+  - \fancyhf{}
+  - \fancyfoot[R]{This CV is prepared using R Markdown}  # Footer content
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage{etoolbox}
+  - \AtBeginEnvironment{table}{\vspace{-0.1\baselineskip}}  # Reduce space before tables
+urlcolor: blue
+---
+
+\pagenumbering{gobble}
+\begin{centering}
+
+\Large
+
+{\bf PRAKASH LAMICHHANE}
+
+\normalsize
+Research Officer/Data Ananlyst/Ecologist
+
+\end{centering}
+
+\normalsize
+
+
+Email: [forester.prakash@gmail.com](mailto:forester.prakash@gmail.com) | Phone: +977-9845228896 | GitHub: [foresterprakash](https://github.com/foresterprakash) | LinkedIn: [PrakashLamichhane](https://www.linkedin.com/in/PrakashLamichhane) | ORCID: [0000-0002-0355-0222](https://orcid.org/0000-0002-0355-0222)
+
+
+# \underline{About Myself}
+
+\begin{wrapfigure}{r}{0.2\textwidth}
+    \includegraphics[width=0.2\textwidth]{Photo_Prakash.jpg}
+\end{wrapfigure}
+
+I am Prakash Lamichhane, a Research Officer, Data Analyst, and Ecologist with a strong educational background in Forestry and Landscape Ecology. My career spans practical experience in forest management and carbon monitoring, driven by a passion for climate science and environmental conservation efforts. I had a significant growth on data analysis and statistical application in any sector data with mastering in MS Excel and R programming in recent years. I am particularly interested in advancing my academic growth in data science and statistical analysis using R programming. I am looking for an opportunity to work with data science enthusiastic group and  committed to contribute towards its growing applicability in biological science.
+
+# \underline{Education}
+
+| Duration     | Course   | University      | Country      |
+|-----------|---------------------------------------|------------------|-----------|
+| 2017 - 2019  | M.Sc. Landscape Ecology and Nature Conservation | University of Greifswald | Germany|
+|||||
+| 2010 - 2013  | B.Sc. Forestry       | Tribhuvan University      | Nepal    |
+|||||
+| 2007 - 2009  | Technical Level in Forestry (I.Sc.)  | Tribhuvan University  | Nepal |
+|||||
+
+# \underline{Work Experiences}
+
+| Year         | Affiliation    |
+|--------------|-------------------------------------------------------------|
+| 2017 - 2019  | M.Sc. Landscape Ecology and Nature Conservation, Greifswald University |
+|||
+| 2019 - 2023  | Assistant Research Officer, Forest Survey and Carbon Monitoring Section under FRTC |
+|||
+| 2023 - Present | Research Officer, Climate Change Management Division, MOFE |
+|||
+| Part-time    | Lecturer, Natural Resource Economics, Kathmandu Forestry College |
+|||
+
+# \underline{Major Skills}
+
+- National Forest data analysis and Reporting
+- Mastering MS. Excel and R programming
+- Carbon accounting and MRV process
+- Uncertainty Estimation and Sensitivity Analysis
+- Data Science with Python
+- GIS Tools (QGIS, ARCGIS, Google Earth Engine etc.)
+- Integrated Development Environments (IDEs)(i.e., R Studio, VS code, Pycharm, Jupyter Notebook, Collect Earth Online etc.).
+
+\newpage
+
+# \underline{Major Job-Related Trainings as Trainee}
+
+| Duration | Entitled |Organizers|Reference|
+|------|------------|-----------|-----|
+| 23-27 May, 2022  | Training on Unbiased Area Estimation and Uncertainty Estimation for Forest Activity Data |USAID,USFS,SilvaCarbon|[Crystal Westespad](https://crystal-wespestad.com/)|
+|||||
+| 22- 26 August, 2022 | Development of National Landcover Monitoring System for Nepal |International Center for Integrated Mountain Development (ICIMOD) SERVIR-HKH initiative|[kabir Uddin](https://www.icimod.org/team/kabir-uddin)|
+|||||
+|10 October - 11 November, 2022 | On the Job training on Forest Carbon Stock Measurement using Earth Observation Data |International Center for Integrated Mountain Development (ICIMOD) SERVIR-HKH initiative|[Rajesh Bahadur Thapa](https://www.icimod.org/team/rajesh-bahadur-thapa/)|
+|||||
+|12 May - 13 August 2023 | Data Science with Python |[Broadways Infosys Pvt.Ltd.](https://broadwayinfosys.com/)|[Uttam Adhikari](https://www.linkedin.com/in/uttam-adhikari-30a53660/?originalSubdomain=np)|
+|||||
+|21- 25 January 2024|FCPF and ART TREES: Technical Training Workshop on REDD+ Emission Reduction Measurement, Reporting and Verification (30hours)|[REDD + Implemmentation center](https://redd.gov.np/),[SilvaCarbon](https://www.silvacarbon.org/),  [FCPF](https://www.forestcarbonpartnership.org/sites/default/files/documents/nepal_ermr_ghg_accounting_nov_2023_final.pdf), [The WorldBank Group Nepal](https://www.worldbank.org/en/home)|[German Obando - Vargas](https://www.linkedin.com/in/german-obando-vargas-24b70319/?originalSubdomain=cr)|
+|||||
+|19 Aug - 6 September|Climate Action and Support Transparency Training(CASTT) Programme on GHGs in Seoul,Republic of Korea|**UNFCCC** and Green House Gas Inventory and Research Center, South Korea | [Jeong Eun-hae,President, GIR Korea](https://www.linkedin.com/in/eunhae-jeong-248a40124/)|
+|||||
+
+# \underline{Major Job-Related Trainings as Trainer}
+
+| Duration  | Entitled | Organization|
+|-------|----------------|---------|
+| Regular From 2022 | MS Excel and R Programming Trainer in | [Broadways Infosys](https://broadwayinfosys.com/)|
+||||
+| 14 - 21 Aug, 2023 | Training on Python Programming |[Forest Research and TRaining Center](https://frtc.gov.np/) |
+||||
+| 26 Sept - 5 Oct, 2023  | Statistical Data Analysis and Forest Mapping | [Forest Research and Training Center](https://frtc.gov.np/)|
+||||
+| 4-13 Feb, 2024 | Enhancing Capacity on R Programming for Data Analysis and Carbon Accounting |[REDD+ Implementation center](https://redd.gov.np/)|
+
+# \underline{Workshop and Seminar}
+
+1. Cross Country knowledge Exchange on REDD plus program in Cambodia dated from 12/06/2022 to 19/06/2022 Phnom Penn, Siem Reip and Koh Kong province of Cambodia (ORAL PRESENTATION)
+2. South-South Knowledge Exchange on Measurement, Monitoring, Reporting and Verification systems, FCPF CF ERPA Implementation dated from 12/12/2022 – 18/12/2022 – Maputo, Mozambique.
+3. Hands-on training workshop on transitioning to the ETF, including the preparation of the Biennial Transparency Report for Asia Region dated from 12/03/2024 to 15/03/2024 Singapore.
+4. UN Climate Conference Bonn, Germany dated from 03/06/2024 to 09/06/2024
+
+\newpage
+# \underline{Research Experience}
+
+1. Preparation of National Landcover monitoring System (NLCMS) using RandomForestClassifier.
+2. FRTC, 2020, A study of Opportunities and Constraints for Development of Private forestry Model in Mid-Hill Region of Nepal (A case study from Kavre and Kaski district of Nepal), Forest Research and Training Centre (FRTC), Babarmahal, Kathmandu, Nepal. [Unpublished](https://frtc.gov.np/uploads/files/Private%20forest%20Model(1).pdf)
+3. Preparation of Regional and National Forest Resource assessment (Involvement in field data collection, data analysis and report writing).
+4. Involvement in generating activity data and emission factors for national emission reduction report for MRV purpose in coordination with FCPF and World Bank.
+
+# \underline{Publications}
+
+1. Aryal, S., Paudel, P., Bolakhe, S., Mahatara, D., & Lamichhane, P. (2022). Evaluation of error and efficiency on tree height measurement using Abney’s level, Rangefinder and Vertex IV. *Indian Journal of Forestry*, 45(1), 1–8. [DOI](https://doi.org/10.54207/bsmps1000-2022-49P4F8)
+2. Parajuli, A., Gautam, A. P., Sharma, S., Lamichhane, P., Sharma, G., Bist, B. S., Aryal, U., & Basnet, R. (2022). A Strategy for involving community forest managers in effective forest fire management in Nepal. *Banko Janakari*, 32(1), 41–51. [DOI](https://doi.org/10.3126/banko.v32i1.45476)
+3. Subedi, B., Lamichhane, P., Magar, L. K., & Subedi, T. (2022). Aboveground carbon stocks and sequestration rates of forests under different management regimes in Churia region of Nepal. *Banko Janakari*, 32(1), 15–24. [DOI](https://doi.org/10.3126/banko.v32i1.45442)
+4. Gautam, G. P., Aryal, R. R., & Lamichhane, P. (2018). Restoration of degraded land through Moso bamboo (Phyllostachys pubescens) plantation in the Mid-hills of Nepal. *Banko Janakari*, 150–153. [DOI](https://doi.org/10.3126/banko.v27i3.20560)
+5. Dhakal, R., et al. (2023). Developing Stem Taper of Shorea Robusta in the Far-Western Terai of Nepal. *Banko Janakari*, 33(2), 3–10. [DOI](https://doi.org/10.3126/banko.v33i2.58809)
+
+
+# \underline{Reference}
+
+## Shiva Khanal, PhD (Western Sydney University, Australia)
+
+- **Position:** Under Secretary (Tech.),Climate Change Management Division (CCMD)
+- **Ministry:** Ministry of Forests and Environment, Kathmandu, Nepal
+- **Google Scholar:** [Shiva Khanal](https://scholar.google.com/citations?user=XXXXXXXXXXXX)
+- **Email:** khanalshiva1@gmail.com
+- **Phone:** (+977) 9841492155
+
+## Shes Kanta Bhandari, PhD (University of Western Australia, Perth)
+
+- **Position:** Assistant Professor, Institute of Forestry, Tribhuvan University
+- **Research Interests:** Forest Biometrics, Forest Growth and Yield Modelling, Individual-based Modelling, Forest Inventory
+- **Google Scholar:** [Shes Kanta Bhandari](https://scholar.google.com/citations?user=k9sUEZkAAAAJ)
+- **Email:** shes.bhandari@pc.tu.edu.np
+- **Phone:** (+977) 9765631067
+
+## Buddi Sagar Poudel, PhD (Charles Sturt University, Australia)
+
+- **Position:** Joint Secretary,Climate Change Management Division (CCMD)
+- **Ministry:** Ministry of Forests and Environment, Kathmandu, Nepal
+- **ResearchGate:** [Buddi Sagar Poudel](https://www.researchgate.net/profile/Buddi-Poudel)
+- **Email:** buddi.poudel@gmail.com, buddhi.poudel@nepal.gov.np
+- **Phone:** (+977) 9841460874
+
